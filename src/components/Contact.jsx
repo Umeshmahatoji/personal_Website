@@ -27,13 +27,13 @@ const Contact = () => {
                   <span>er.mahatoumesh@gmail.com</span>
                 </div>
               </a>
-              <a href="tel:+9779863822490" className="contact-item">
+              <a href="tel:+9779743586129" className="contact-item">
                 <div className="contact-icon">
                   <FontAwesomeIcon icon={faPhone} />
                 </div>
                 <div className="contact-details">
                   <h4>Phone</h4>
-                  <span>+977 9863822490</span>
+                  <span>+977 9743586129</span>
                 </div>
               </a>
               <a href="https://maps.app.goo.gl/JTsC7L4FxyvaK5pB7" target="_blank" rel="noopener noreferrer" className="contact-item">

@@ -31,13 +31,24 @@ const Skills = () => {
     {
       title: "Advanced Databases and SQL Querying",
       provider: "Udemy",
-      date: "Feb 2021"
+      date: "Jan 2025"
     },
     {
       title: "Advance .NET Core",
       provider: "Coursera",
-      date: "Jan 2021"
-    }
+      date: "Feb 2024"
+    },
+    {
+      title: "Microsoft Certified: Azure Fundamentals ",
+      provider: "Microsoft",
+      date: "Apr 2023"
+    },
+    {
+      title: "REST API and Microservices Development ",
+      provider: "Udemy",
+      date: "Sep 2023"
+    },
+   
   ]
 
   // All skills in one list with percentage bars
@@ -45,20 +56,20 @@ const Skills = () => {
     { name: 'C#', icon: null, iconText: 'C#', color: '#68217A', percentage: 90 },
     { name: 'ASP.NET Core', icon: null, iconText: '.NET', color: '#512BD4', percentage: 95 },
     { name: 'ASP.NET', icon: null, iconText: '.NET', color: '#512BD4', percentage: 90 },
-    { name: 'MS-SQL', icon: faDatabase, color: '#CC2927', percentage: 90 },
     { name: 'JavaScript (ES6)', icon: faJs, color: '#F7DF1E', percentage: 85 },
     { name: 'Entity Framework', icon: faDatabase, color: '#512BD4', percentage: 85 },
     { name: 'RESTful APIs', icon: faServer, color: '#00ADD8', percentage: 85 },
+    { name: 'MS-SQL', icon: faDatabase, color: '#CC2927', percentage: 90 },
+    { name: 'MySQL', icon: faDatabase, color: '#4479A1', percentage: 90 },
+
     { name: 'Git', icon: faCodeBranch, color: '#F05032', percentage: 85 },
     { name: 'GitHub', icon: faGithub, color: '#181717', percentage: 85 },
     { name: 'HTML5', icon: faHtml5, color: '#E34F26', percentage: 95 },
     { name: 'CSS3', icon: faCss3Alt, color: '#1572B6', percentage: 90 },
     { name: 'jQuery', icon: faJs, color: '#0769AD', percentage: 85 },
-    { name: 'MySQL', icon: faDatabase, color: '#4479A1', percentage: 80 },
     { name: 'Python', icon: faPython, color: '#3776AB', percentage: 75 },
     { name: 'Agile Methodologies', icon: faCheckCircle, color: '#10B981', percentage: 80 },
     { name: 'Elasticsearch', icon: faDatabase, color: '#005571', percentage: 70 },
-    { name: 'C', icon: faCode, color: '#A8B9CC', percentage: 70 }
   ]
 
   return (

@@ -15,7 +15,7 @@ const Hero = () => {
       <div className="hero-content">
         <div className="hero-text">
           <h1 className="hero-title">
-            <span className="greeting">🙏 Nameste, I'm</span>
+            <span className="greeting">🙏 Namaste, I'm</span>
             <span className="name">ER. UMESH MAHATO</span>
           </h1>
           <p className="hero-subtitle">

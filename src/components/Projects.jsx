@@ -35,6 +35,18 @@ const Projects = () => {
       image: "/assets/shuvakamana.png"
     },
     {
+      name: "Kashi Cineplex",
+      description: "Premium cinema experience platform with luxury seat booking",
+      link: "https://www.kashicineplex.com/",
+      image: "/assets/kashi.jpg"
+    },
+    {
+      name: "Pathivara Cineplaza",
+      description: "Premium cinema experience platform with luxury seat booking",
+      link: "https://www.pathivaracineplaza.com",
+      image: "/assets/pathivaralogo.jpg"
+    },
+    {
       name: "Eyeplex Mall",
       description: "Multiplex cinema platform with integrated mall services",
       link: "https://www.eyeplexmall.com.np/",
@@ -46,18 +58,7 @@ const Projects = () => {
       link: "https://www.landmarknepal.com/",
       image: "/assets/landmark.png"
     },
-    {
-      name: "Kashi Cineplex",
-      description: "Premium cinema experience platform with luxury seat booking",
-      link: "https://www.kashicineplex.com/",
-      image: "/assets/kashi.jpg"
-    },
-    {
-      name: "Pathivara Cineplaza",
-      description: "Premium cinema experience platform with luxury seat booking",
-      link: "https://www.pathivaracineplaza.com",
-      image: "/assets/pathivaralogo.jpg"
-    }
+    
   ]
 
   const techStack = [

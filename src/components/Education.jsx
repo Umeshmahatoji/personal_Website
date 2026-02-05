@@ -7,20 +7,23 @@ const Education = () => {
       degree: "Bachelor's of Computer Engineering",
       institution: "KCE, Khwopa College of Engineering",
       university: "Tribhuvan University",
-      location: "Chakupat, Lalitpur, Nepal",
+      location: "Libali, Bhaktapur, Nepa",
       period: "Sep 2018 - Sep 2023",
       icon: faGraduationCap
     },
     {
       degree: "High School, Science",
       institution: "GIC, Greenland International Higher Secondary School",
+            university: "NEB, National Examination Board",
+
       location: "Biratnagar, Morang, Nepal",
       period: "Jun 2015 - Apr 2017",
       icon: faUniversity
     },
     {
-      degree: "Secondary School (SLC)",
+      degree: "Secondary School",
       institution: "Srijana S.E.B. School",
+      university: "SLC, School Leaving Certificate",
       location: "Golbazar, Siraha, Nepal",
       period: "Jun 2005 - Jun 2015",
       icon: faUniversity
